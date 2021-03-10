@@ -2,6 +2,9 @@
 
 > based on dwm6.2
 
+## fonts needed
+you **do** need to install font awesome for the tag emoji
+
 ## patches applied 
 see the **patch** folder
 
